@@ -1,1 +1,1 @@
-# Desafio do Jogo Aleatório em CSharp
+# Desafio do Jogo do Número Aleatório em CSharp
